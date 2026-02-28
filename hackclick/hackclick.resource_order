@@ -1,4 +1,8 @@
 {
   "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"prop1","order":2,"path":"objects/prop1/prop1.yy",},
+    {"name":"prop2","order":3,"path":"objects/prop2/prop2.yy",},
+    {"name":"Backgrund","order":1,"path":"sprites/Backgrund/Backgrund.yy",},
+  ],
 }
