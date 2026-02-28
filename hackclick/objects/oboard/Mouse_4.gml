@@ -1,0 +1,1 @@
+show_message("School established: 47/29");

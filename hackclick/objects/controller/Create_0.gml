@@ -1,0 +1,1 @@
+global.keycard = 0;

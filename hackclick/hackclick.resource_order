@@ -1,16 +1,15 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"controller","order":17,"path":"objects/controller/controller.yy",},
     {"name":"oboard","order":15,"path":"objects/oboard/oboard.yy",},
     {"name":"odoor","order":12,"path":"objects/odoor/odoor.yy",},
     {"name":"olocker","order":13,"path":"objects/olocker/olocker.yy",},
     {"name":"olocker3","order":14,"path":"objects/olocker3/olocker3.yy",},
-    {"name":"Backgrund_1","order":16,"path":"sprites/Backgrund_1/Backgrund_1.yy",},
     {"name":"Backgrund","order":1,"path":"sprites/Backgrund/Backgrund.yy",},
     {"name":"sboard","order":10,"path":"sprites/sboard/sboard.yy",},
     {"name":"sdoor","order":11,"path":"sprites/sdoor/sdoor.yy",},
     {"name":"slocker1","order":8,"path":"sprites/slocker1/slocker1.yy",},
     {"name":"slocker2","order":9,"path":"sprites/slocker2/slocker2.yy",},
-    {"name":"type","order":7,"path":"sprites/type/type.yy",},
   ],
 }
