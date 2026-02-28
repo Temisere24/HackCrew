@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"randomcharacter",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"oboard",
+  "eventList":[],
   "managed":true,
-  "name":"randomcharacter",
+  "name":"oboard",
   "overriddenProperties":[],
   "parent":{
     "name":"hackclick",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprop2",
-    "path":"sprites/sprop2/sprop2.yy",
+    "name":"sboard",
+    "path":"sprites/sboard/sboard.yy",
   },
   "spriteMaskId":null,
   "visible":true,
