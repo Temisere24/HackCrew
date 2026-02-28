@@ -1,8 +1,10 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
-    {"name":"prop1","order":2,"path":"objects/prop1/prop1.yy",},
-    {"name":"prop2","order":3,"path":"objects/prop2/prop2.yy",},
+    {"name":"obj_puzzle_trigger","order":2,"path":"objects/obj_puzzle_trigger/obj_puzzle_trigger.yy",},
+    {"name":"randomcharacter","order":3,"path":"objects/randomcharacter/randomcharacter.yy",},
     {"name":"Backgrund","order":1,"path":"sprites/Backgrund/Backgrund.yy",},
+    {"name":"Button","order":4,"path":"sprites/Button/Button.yy",},
+    {"name":"sprop2","order":5,"path":"sprites/sprop2/sprop2.yy",},
   ],
 }
