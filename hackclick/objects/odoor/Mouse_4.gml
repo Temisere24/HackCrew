@@ -7,5 +7,6 @@ if (global.keycard == 1)
 }
 else
 {
+	room_goto(door)
     show_message("Locked. Needs a keycard.");
 }

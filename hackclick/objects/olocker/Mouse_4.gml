@@ -10,7 +10,9 @@ else
     if (code == "7")
     {
         show_message("Locker opened. You found a keycard.");
+		
         global.keycard = 1;
+		 room_goto(card)
 	
 		
 		

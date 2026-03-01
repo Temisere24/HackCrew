@@ -15,6 +15,8 @@
     {"name":"osndoor","order":24,"path":"objects/osndoor/osndoor.yy",},
     {"name":"osndoor1","order":25,"path":"objects/osndoor1/osndoor1.yy",},
     {"name":"rm2controller","order":26,"path":"objects/rm2controller/rm2controller.yy",},
+    {"name":"card","order":38,"path":"rooms/card/card.yy",},
+    {"name":"door","order":39,"path":"rooms/door/door.yy",},
     {"name":"Room2","order":18,"path":"rooms/Room2/Room2.yy",},
     {"name":"Room3","order":33,"path":"rooms/Room3/Room3.yy",},
     {"name":"Backgrund","order":1,"path":"sprites/Backgrund/Backgrund.yy",},
