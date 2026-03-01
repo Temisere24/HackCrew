@@ -24,6 +24,7 @@
     {"name":"bulbys","order":35,"path":"sprites/bulbys/bulbys.yy",},
     {"name":"cardreader","order":29,"path":"sprites/cardreader/cardreader.yy",},
     {"name":"cardsprite","order":27,"path":"sprites/cardsprite/cardsprite.yy",},
+    {"name":"chainsaw","order":40,"path":"sprites/chainsaw/chainsaw.yy",},
     {"name":"lightsprite","order":28,"path":"sprites/lightsprite/lightsprite.yy",},
     {"name":"sboard","order":10,"path":"sprites/sboard/sboard.yy",},
     {"name":"sdoor","order":11,"path":"sprites/sdoor/sdoor.yy",},

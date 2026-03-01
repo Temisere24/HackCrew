@@ -43,6 +43,7 @@
     {"id":{"name":"bulbys","path":"sprites/bulbys/bulbys.yy",},},
     {"id":{"name":"cardreader","path":"sprites/cardreader/cardreader.yy",},},
     {"id":{"name":"cardsprite","path":"sprites/cardsprite/cardsprite.yy",},},
+    {"id":{"name":"chainsaw","path":"sprites/chainsaw/chainsaw.yy",},},
     {"id":{"name":"lightsprite","path":"sprites/lightsprite/lightsprite.yy",},},
     {"id":{"name":"sboard","path":"sprites/sboard/sboard.yy",},},
     {"id":{"name":"sdoor","path":"sprites/sdoor/sdoor.yy",},},
