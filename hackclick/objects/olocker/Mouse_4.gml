@@ -1,3 +1,4 @@
+
 if (global.keycard == 1)
 {
     show_message("The locker is empty.");
@@ -10,6 +11,8 @@ else
     {
         show_message("Locker opened. You found a keycard.");
         global.keycard = 1;
+		
+	
     }
     else
     {
