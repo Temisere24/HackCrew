@@ -1,9 +1,9 @@
 if (global.keycard == 1)
 {
     show_message("Door unlocked.");
-    // Optional:
-    // room_goto(rm_next);
-    // instance_destroy();
+    show_message("You step through.");
+
+    room_goto(Room2);
 }
 else
 {
