@@ -1,9 +1,11 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"bulby","order":34,"path":"objects/bulby/bulby.yy",},
     {"name":"controller","order":17,"path":"objects/controller/controller.yy",},
     {"name":"oboard","order":15,"path":"objects/oboard/oboard.yy",},
     {"name":"ocard","order":30,"path":"objects/ocard/ocard.yy",},
+    {"name":"ocard1t","order":37,"path":"objects/ocard1t/ocard1t.yy",},
     {"name":"ocardreader","order":31,"path":"objects/ocardreader/ocardreader.yy",},
     {"name":"odoor","order":12,"path":"objects/odoor/odoor.yy",},
     {"name":"oexit","order":23,"path":"objects/oexit/oexit.yy",},
@@ -14,8 +16,10 @@
     {"name":"osndoor1","order":25,"path":"objects/osndoor1/osndoor1.yy",},
     {"name":"rm2controller","order":26,"path":"objects/rm2controller/rm2controller.yy",},
     {"name":"Room2","order":18,"path":"rooms/Room2/Room2.yy",},
+    {"name":"Room3","order":33,"path":"rooms/Room3/Room3.yy",},
     {"name":"Backgrund","order":1,"path":"sprites/Backgrund/Backgrund.yy",},
     {"name":"bcgrnd","order":19,"path":"sprites/bcgrnd/bcgrnd.yy",},
+    {"name":"bulbys","order":35,"path":"sprites/bulbys/bulbys.yy",},
     {"name":"cardreader","order":29,"path":"sprites/cardreader/cardreader.yy",},
     {"name":"cardsprite","order":27,"path":"sprites/cardsprite/cardsprite.yy",},
     {"name":"lightsprite","order":28,"path":"sprites/lightsprite/lightsprite.yy",},

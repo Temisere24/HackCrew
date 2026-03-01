@@ -1,3 +1,3 @@
 show_message("You open the door.");
-show_message("There is nothing inside.");
-show_message("You close it.");
+show_message("its an empty room with a singular lightbulb held by a long cord.");
+room_goto(Room3)

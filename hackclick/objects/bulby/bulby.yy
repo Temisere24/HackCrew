@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"olocker",
+  "%Name":"bulby",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"olocker",
+  "name":"bulby",
   "overriddenProperties":[],
   "parent":{
     "name":"hackclick",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"slocker1",
-    "path":"sprites/slocker1/slocker1.yy",
+    "name":"bulbys",
+    "path":"sprites/bulbys/bulbys.yy",
   },
   "spriteMaskId":null,
   "visible":true,

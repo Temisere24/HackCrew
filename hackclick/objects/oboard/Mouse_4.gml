@@ -1,1 +1,1 @@
-show_message("School established: 47/29");
+show_message("god of the sky, sun of the earth, whats his place among the stars ");

@@ -5,12 +5,14 @@ if (global.keycard == 1)
 }
 else
 {
-    var code = get_string("Enter locker code:", "4- 7- 2-?");
+    var code = get_string("Enter locker code: 473--", "");
 
-    if (code == "4729")
+    if (code == "7")
     {
         show_message("Locker opened. You found a keycard.");
         global.keycard = 1;
+	
+		
 		
 	
     }
